@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>부산인테리어 정보 센터</title>
+  <link>https://academyinterior.pages.dev/</link>
+  <description>부산 지역 학원 및 상업공간 인테리어 전문 정보 피드</description>
+  <item>
+    <title>부산 학원 인테리어 업체 선정 시 필수 체크리스트</title>
+    <link>https://academyinterior.pages.dev/post1.html</link>
+    <description>부산 지역 학원 인테리어 업체 선정 가이드</description>
+  </item>
+  <item>
+    <title>2026년 최신 부산 인테리어 트렌드 분석</title>
+    <link>https://academyinterior.pages.dev/post2.html</link>
+    <description>올해 유행하는 부산 지역 인테리어 스타일</description>
+  </item>
+</channel>
+</rss>
